@@ -1,0 +1,52 @@
+TipoAcidente,TipoAcidente2
+Acidente envolvendo ciclista,Atropelamento - Ciclista
+Atropelamento - Ambulante,Atropelamento - Pedestre
+Atropelamento - Andarilho,Atropelamento - Pedestre
+Atropelamento - Ciclista,Atropelamento - Pedestre
+Atropelamento - Funcionário,Atropelamento - Pedestre
+Atropelamento - Morador,Atropelamento - Pedestre
+Atropelamento - Outros,Atropelamento - Pedestre
+Atropelamento - Pedestre Funcionã¡rio,Atropelamento - Pedestre
+Atropelamento - Pedestre Funcionário,Atropelamento - Pedestre
+Atropelamento - Pedestre Usuã¡rio,Atropelamento - Pedestre
+Atropelamento - Pedestre Usuário,Atropelamento - Pedestre
+Atropelamento - Sem Informaã§ão,Atropelamento - Pedestre
+Atropelamento - Sem Informação,Atropelamento - Pedestre
+Atropelamento - Usuário,Atropelamento - Pedestre
+Atropelamento de Animal,Atropelamento - Animal
+Capotamento,Capotamento
+Choque - Arvore,Choque
+Choque - Cancela de Pedagio,Choque
+Choque - Cancela de Pedagio - Manual,Choque
+Choque - Cancela de Pedagio - Sem Parar,Choque
+"Choque - Defensa, barreira ou  submarino ",Choque
+Choque - Elemento de Drenagem,Choque
+Choque - Objeto não identificado,Choque
+Choque - Objeto sobre a pista,Choque
+Choque - Outros,Choque
+Choque - Poste,Choque
+Choque - Suporte de Sinalizaã§ão,Choque
+Choque - Suporte de Sinalização,Choque
+Choque - Talude,Choque
+Choque - Veiculo parado na pista,Choque
+Choque - Veiculo parado na pista ,Choque
+Choque - Veiculo parado no acostamento,Choque
+Colisão Frontal,Colisão Frontal
+Colisão Lateral,Colisão Lateral/Transversal
+Colisão Transversal,Colisão Lateral/Transversal
+Colisão Traseira,Colisão Traseira
+Engavetamento,Colisão Traseira
+Explosão,Outros
+Incêndio,Outros
+Não Def,Outros
+Objeto lançado contra veículo,Choque
+Outros,Outros
+Outros - Sequência,Outros
+Queda,Queda de Moto
+Queda de Moto,Queda de Moto
+Saida de Pista,Saida de Pista
+Soterramento,Choque
+Submersão,Outros
+Tombamento,Tombamento
+Transposição de Pista,Saida de Pista
+Travessia Canteiro Central,Saida de Pista

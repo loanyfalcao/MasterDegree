@@ -1,0 +1,123 @@
+strLocal,Local2
+",",Não Informado
+00-Principal,Principal
+01-Acostamento,Acostamento
+02-Trevo,Retorno
+03-Marginal,Marginal
+04-Pista de ServiÃ£Â§o,Acostamento
+04-Pista de ServiÃ§o,Acostamento
+04-Pista de Serviã§o,Acostamento
+04-Pista de Serviço,Acostamento
+05-TÃ£Âºnel,Túnel
+05-TÃºnel,Túnel
+05-Tãºnel,Túnel
+05-Túnel,Túnel
+06-Viaduto,Viaduto
+07-Ponte,Ponte
+08-Acesso,Acesso
+09-Canteiro Central,Canteiro Central/Lateral
+0-Principal,Principal
+10-Faixa de domÃ£Â­nio,Faixa de domínio
+10-Faixa de domÃ­nio,Faixa de domínio
+10-Faixa de domã­nio,Faixa de domínio
+10-Faixa de domínio,Faixa de domínio
+11-Posto CombustÃ£Â­vel,Posto de Combustível
+11-Posto CombustÃ­vel,Posto de Combustível
+11-Posto Combustã­vel,Posto de Combustível
+11-Posto Combustível,Posto de Combustível
+11-Praã§a de Pedã¡gio,Praça de Pedágio
+11-Praça de Pedágio,Praça de Pedágio
+12-ãrea Lindeira,Faixa de domínio
+12-Área Lindeira,Faixa de domínio
+12-Area não Edifican,Faixa de domínio
+12-PraÃ£Â§a de PedÃ£Â¡gio,Praça de Pedágio
+12-PraÃ§a de PedÃ¡gio,Praça de Pedágio
+12-Praã§a de Pedã¡gio,Praça de Pedágio
+12-Praça de Pedágio,Praça de Pedágio
+13-Ã£Ârea de Escape,Area de Escape
+13-Ãrea de Escape,Area de Escape
+13-ãrea de Escape,Area de Escape
+13-Área de Escape,Area de Escape
+13-Base Operacional,Base Operacional
+13-Canteiro lateral,Canteiro Central/Lateral
+13-Pista Automã¡tica,Praça de Pedágio
+13-Pista Automática,Praça de Pedágio
+14-Base Operacional,Base Operacional
+14-Cabine Manual,Praça de Pedágio
+14-Extralarga,Principal
+14-Pista Manual,Praça de Pedágio
+14-Retorno,Retorno
+14-Via Auxiliar,Acostamento
+15-Base Operacional,Base Operacional
+15-Fx 1,Principal
+15-Fx aceleraÃ£Â§Ã£o,Acesso
+15-Fx aceleraÃ§Ã£o,Acesso
+15-Fx aceleraã§ão,Acesso
+15-Fx aceleração,Acesso
+15-Pã¡tio da PRF,Base Operacional
+15-Pátio da PRF,Base Operacional
+15-Posto de Pesagem,Base Operacional
+16-Fora,Fora
+16-Fora do Trecho ,Fora
+16-Fx 2,Principal
+16-Fx desaceleraÃ£Â§Ã£o,Acesso
+16-Fx desaceleraÃ§Ã£o,Acesso
+16-Fx desaceleraã§ão,Acesso
+16-Fx desaceleração,Acesso
+16-Passagem Inferior,Viaduto
+17 - Balanã§a,Base Operacional
+17 - Balança,Base Operacional
+17-BalanÃ£Â§a,Base Operacional
+17-BalanÃ§a,Base Operacional
+17-Balanã§a,Base Operacional
+17-Balança,Base Operacional
+17-Base,Base Operacional
+17-Fx 3,Principal
+17-Passarela,Passarela
+18-Ãrea de Escape,Área de Escape
+18-Alã§a de acesso,Acesso
+18-Alça de acesso,Acesso
+18-Área de Escape,Área de Escape
+18-Passarela,Passarela
+19-Alã§a de saã­da,Acesso
+19-Alça de saída,Acesso
+19-Posto Policial,Posto Policial
+1-Acostamento,Acostamento
+20-Rotatã³ria,Retorno
+20-Rotatória,Retorno
+20-Rua lateral,Marginal
+21-Acesso à Alça,Acesso
+21-Acesso Ã  AlÃ§a,Acesso
+22-Base Operacional,Base Operacional
+22-Fx 01,Principal
+23-Faixa adicional,Principal
+23-Fx 02,Principal
+24-Fx 03,Principal
+24-Fx aceleraã§ão,Acesso
+24-Fx aceleração,Acesso
+25-Fx desaceleraã§ão,Acesso
+25-Fx desaceleração,Acesso
+26-Prop. Particular,Faixa de domínio
+27-Fora do Trecho,Fora
+28-Pas. livre (moto),Praça de Pedágio
+2-Trevo,Acesso
+3-Marginal,Marginal
+4-Pista de ServiÃ£Â§o,Acostamento
+4-Pista de ServiÃ§o,Acostamento
+4-Pista de Serviã§o,Acostamento
+4-Pista de Serviço,Acostamento
+5-TÃ£Âºnel,Túnel
+5-TÃºnel,Túnel
+5-Tãºnel,Túnel
+5-Túnel,Túnel
+6-Viaduto,Viaduto
+7-Ponte,Ponte
+8-Acesso,Acesso
+8-Acesso - Alã§as,Acesso
+8-Acesso - Alças,Acesso
+9-Canteiro Central,Canteiro Central/Lateral
+BR101,Principal
+BR116/PR,Principal
+BR116/SC,Principal
+NÃ£o Info,Não Informado
+Não Info,Não Informado
