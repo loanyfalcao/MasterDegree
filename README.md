@@ -13,11 +13,14 @@ São dois arquivos:
 4.  [RegressaoLogistica]([caminho-para-o-arquivo/arquivo.md](https://github.com/loanyfalcao/MasterDegree/blob/f2f1932f0dabfa23ca230b2faa863452a7197e60/Regress%C3%A3o%20Log%C3%ADstica%20Bin%C3%A1ria.R)) é o arquivo com o modelo de regressão logistica, no qual foram feitos analises de quais variaveis entrariam ou não no modelo.
 
 
+
 ### Cluster
 TOP15 maiores clusters com base na soma do UPS 
 <img src="https://github.com/loanyfalcao/MasterDegree/assets/156198809/97772516-36b1-40af-8102-0c99bd819770" width="500" height="300">
 
 <img src="https://github.com/loanyfalcao/MasterDegree/assets/156198809/57cbaa4c-c995-481f-b647-43f04a23d68e" width="300" height="300">
+
+
 
 ### Regressão Logistica
 #### Os residuos padronizados 
@@ -37,6 +40,14 @@ TOP15 maiores clusters com base na soma do UPS
 
 #### Razão de chances, considerando os residuos especificos
 <img src="https://github.com/loanyfalcao/MasterDegree/assets/156198809/9fe22fc8-d019-42f8-808f-3b26a8f9f31c" width="1000" height="500">
+
+
+
+**OBS:** Foi gerado um segundo modelo sem a variavel "Veiculo_Leve", porém os valores de AIC e BIC não tiveram muita variação, o primeiro modelo então foi mantido.
+
+
+
+
 
 ## Resultados
 **Genero da vítima**: A razão de chances para uma vítima do sexo masculino foi de 1,31, o que denota que os homens têm 31% mais chance de ser uma vítima fatal ou grave em acidentes, quando comparados às mulheres.
