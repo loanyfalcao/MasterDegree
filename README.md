@@ -5,12 +5,12 @@ São dois arquivos:
 - Acidentes, onde cada linha é um acidente
 - Vitimas, cada linha é uma vitima, e cada acidente pode possuir varias vitimas
 
-1. Primeiramente foi feito o tratamento desses dadados no arquivo [Tratamento]([caminho-para-o-arquivo/arquivo.md](https://github.com/loanyfalcao/MasterDegree/blob/f2f1932f0dabfa23ca230b2faa863452a7197e60/Tratamento.ipynb)):
-2. No arquivo [DadosAbertosANTT]([caminho-para-o-arquivo/arquivo.md](https://github.com/loanyfalcao/MasterDegree/blob/f2f1932f0dabfa23ca230b2faa863452a7197e60/Dados_Abertos_ANTT.ipynb)) foi incluido dados abertos da ANTT:
+1. Primeiramente foi feito o tratamento desses dadados no arquivo [Tratamento](https://github.com/loanyfalcao/MasterDegree/blob/a18e089e5c8e3049c2d5f27acb22eb31cd19f924/Tratamento.ipynb):
+2. No arquivo [DadosAbertosANTT](https://github.com/loanyfalcao/MasterDegree/blob/a18e089e5c8e3049c2d5f27acb22eb31cd19f924/DadosAbertosANTT.ipynb) foi incluido dados abertos da ANTT:
     - Volume de trafego, porém foi necessario fazer uma regressão para tratar dados zerados ou muito discrepantes, para isso foram feito analises com boxblot
     - Marginal: se no ponto havia ou nao marginal
-3.  No arquivo [DBSCAN]([caminho-para-o-arquivo/arquivo.md](https://github.com/loanyfalcao/MasterDegree/blob/f2f1932f0dabfa23ca230b2faa863452a7197e60/DBSCAN.ipynb)) foi gerado um modelo de cluster por densidade para analisar as regiões com maior numero de acidentes e assim incluir essa variavel no modelo
-4.  [RegressaoLogistica]([caminho-para-o-arquivo/arquivo.md](https://github.com/loanyfalcao/MasterDegree/blob/f2f1932f0dabfa23ca230b2faa863452a7197e60/Regress%C3%A3o%20Log%C3%ADstica%20Bin%C3%A1ria.R)) é o arquivo com o modelo de regressão logistica, no qual foram feitos analises de quais variaveis entrariam ou não no modelo.
+3.  No arquivo [DBSCAN](https://github.com/loanyfalcao/MasterDegree/blob/a18e089e5c8e3049c2d5f27acb22eb31cd19f924/DBSCAN.ipynb) foi gerado um modelo de cluster por densidade para analisar as regiões com maior numero de acidentes e assim incluir essa variavel no modelo
+4.  [RegressaoLogistica](https://github.com/loanyfalcao/MasterDegree/blob/a18e089e5c8e3049c2d5f27acb22eb31cd19f924/RegressaoLogisticaBinaria.R) é o arquivo com o modelo de regressão logistica, no qual foram feitos analises de quais variaveis entrariam ou não no modelo.
 
 
 
