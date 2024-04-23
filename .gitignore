@@ -161,5 +161,6 @@ cython_debug/
 DadosIniciais/RVT017
 DadosIniciais/RVT900
 Arquivos/
-
+.RData
+.Rhistory
 
